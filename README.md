@@ -43,11 +43,11 @@ Make sure you have Node.js and npm (or yarn) installed on your machine.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
+    git clone [https://github.com/deepnav4/SCT_WD_4.git](https://github.com/deepnav4/SCT_WD_4.git)
     ```
 2.  Navigate to the project directory
     ```sh
-    cd your_repository_name
+    cd SCT_WD_4
     ```
 3.  Install NPM packages
     ```sh
